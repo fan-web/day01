@@ -21,5 +21,8 @@
 可以新增文件(在day01文件目录下)：touch README.md   git add README.md   git commit -m "add README.md file"
 查询进程及状态：git status    git log
 上传文件：git push（有一定限制，别人的远程仓库个人是不能上传文件的）
+
+
+注：使用git的时候，为了避免冲突，一定要先pull（更新），再push（上传）
 ```
 
